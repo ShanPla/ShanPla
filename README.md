@@ -7,6 +7,7 @@ placement. Strongest on the frontend, and learning backend.
 
 ### Selected work
 
+- [Last Stand](https://github.com/ShanPla/Last-Stand): a pixel-art zombie survivors game with all art and sound generated in code. [Play it in your browser](https://shanpla.github.io/Last-Stand/). C++20, raylib, WebAssembly.
 - [LipaAction Web Console](https://github.com/ShanPla/LipaAction-WebConsole): the web console of our thesis, an incident-reporting system for Lipa City. Next.js, TypeScript, Supabase.
 - [The Chronicle](https://github.com/ShanPla/mini-social-app): a full-stack social app with real-time chat. React, TypeScript, Supabase.
 - [ESP32 Fire Detection](https://github.com/ShanPla/esp32-fire-detection-system): a fire and gas monitor with a Blynk dashboard. ESP32, Arduino C++.
